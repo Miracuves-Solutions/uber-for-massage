@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/uber-for-massage → Dem
 Most on-demand scripts stop at "search a pro." This platform ships with the features that actually run a service *marketplace*:
 
 - **AI Quote Engine** — auto-generates quote ranges based on job description, location, time, and pro rates — what Thumbtack and TaskRabbit do
-- **Multi-Category Marketplace** — 
-- **Background-Checked Pros** — cleaning, handyman, wellness, tutoring, beauty — same onboarding, same wallet, different taxonomy
-- **Recurring-Booking Engine** — users rate pros, pros rate users — same trust mechanics Uber pioneered
-- **Two-Way Ratings** — weekly/bi-weekly housecleaning, dog walks, tutoring — drives LTV
+- **Multi-Category Marketplace** — cleaning, handyman, wellness, tutoring, beauty — same onboarding, same wallet, different taxonomy
+- **Background-Checked Pros** — ID + background checks pre-onboarding — what consumers actually pay premium for
+- **Recurring-Booking Engine** — weekly/bi-weekly housecleaning, dog walks, tutoring — drives LTV
+- **Two-Way Ratings** — users rate pros, pros rate users — same trust mechanics Uber pioneered
 
 ## 📦 Core Features
 

@@ -1,11 +1,11 @@
 # Uber For Massage Clone — White-Label On-Demand Service Marketplace Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxspax.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxspa.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/uber-for-massage/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/uber-for-massage/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
-**MXSpaX** is a production-ready, white-label Uber For Massage clone: a complete on-demand service marketplace with user, pro, and admin panels — delivered with **100% source code ownership** in **6 working days**.
+**MXSpa** is a production-ready, white-label Uber For Massage clone: a complete on-demand service marketplace with user, pro, and admin panels — delivered with **100% source code ownership** in **6 working days**.
 
 > 🛠️ **See it running before you talk to anyone.** Live user app, pro dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/uber-for-massage#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 User App | [mas.mimeld.com](https://mas.mimeld.com) | Book, track, pay, rate service pro |
-| 🌐 Web Booking | [mxspax.mimeld.com](https://mxspax.mimeld.com) | Full marketplace experience in browser |
+| 🌐 Web Booking | [mxspa.mimeld.com](https://mxspa.mimeld.com) | Full marketplace experience in browser |
 | 🔧 Pro Dashboard | [Solution page → Demo](https://miracuves.com/uber-for-massage#demo) | Jobs, schedule, earnings, payouts |
 | 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/uber-for-massage#demo) | Pros, categories, commissions, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/uber-for-massage/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$3,699**, transparent on the [solution page](https://miracuves.com/uber-for-massage/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -106,10 +106,10 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Uber For Massage Clone
-{MX_NAME}         MXSpaX
+{MX_NAME}         MXSpa
 {CATEGORY}        On-Demand Service Marketplace Platform
-{DEMO_WEB}        mxspax.mimeld.com
-{PRICE}           $6,699
+{DEMO_WEB}        mxspa.mimeld.com
+{PRICE}           $3,699
 {SLUG}            uber-for-massage
 {SOLUTION_URL}    https://miracuves.com/uber-for-massage/
 {VERTICAL}        on_demand
